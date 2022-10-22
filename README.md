@@ -23,7 +23,6 @@
 
 ### David Grindle
 - Open Source enthusiast.
-- Systems Engineer
 - Currently working on Lunarvim and some cool side projects based on Web Development and Learning Rust
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
