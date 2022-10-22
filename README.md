@@ -29,5 +29,4 @@
 
 ---
 
-⭐️ From [umop3plsdn](https://github.com/umop3plsdn)
 [![@umop3plsdn's Holopin board](https://holopin.me/umop3plsdn)](https://holopin.io/@umop3plsdn)
