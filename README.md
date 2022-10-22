@@ -3,7 +3,7 @@
 <a href="https://twitter.com/DavidGrindle">
   <img align="left" alt="David's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/umop3plsdn/">
+<a href="https://www.linkedin.com/in/dgrindle/">
   <img align="left" alt="David's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/umop3plsdn">
