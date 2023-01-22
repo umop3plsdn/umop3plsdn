@@ -22,6 +22,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### David Grindle
+npub1uap8wxsj83x3zm7lpma55yyp090yaw97erxqnn57jg47jxcv9xgq3fy6kf
 - Open Source enthusiast.
 - Currently working on Lunarvim and some cool side projects based on Web Development and Learning Rust
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
